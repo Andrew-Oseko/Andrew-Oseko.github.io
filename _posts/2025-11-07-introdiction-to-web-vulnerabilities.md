@@ -4,7 +4,7 @@ date: 2025-11-07 11:47:00 +0300
 category: [cybersecurity, Web]
 tags: [xss, sqlinjection, csrf]
 Image:
-Path:/assets/SQL injection.png
+Path: /assets/SQL injection.png
 Widh: 1600
 height: 630
 ---
