@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I am Andrew Oseko, a network administratir and a cyber security enthisiasr and pentester.
+- skilled in network administration
+- skilled in network and web security
+- Pationate about CTFs
+- Building a safe cyber space trough awareness and research.
