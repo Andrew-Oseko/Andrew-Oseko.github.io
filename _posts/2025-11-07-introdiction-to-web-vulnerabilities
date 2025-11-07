@@ -6,6 +6,7 @@ tags: [xss, sqlinjection, csrf]
 ---
 
 web vulnerabilities are common entry points for attackers. In this post we will explore **sql injection** and **xss** -- to of the top OWASP top 10.
+
 ## sql injection
 This occurs when the unsanitized input is used in database queries.
 
